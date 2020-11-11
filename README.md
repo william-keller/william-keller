@@ -20,3 +20,7 @@
 [<img align="left" alt="william-keller | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="william-keller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="william-keller | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://william-keller.github.io/
+[linkedin]: https://www.linkedin.com/in/william-keller-desenvolvedor-full-stack-csharp-aspnetcore-xamarin-imasterscertifiedprofessional/
+[medium]: https://medium.com/@william-keller/
