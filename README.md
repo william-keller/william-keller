@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
+<img src="https://raw.githubusercontent.com/william-keller/william-keller/main/wave_top.jpg"/>
 
 ## Hi, I'm William Keller, husband and Developer 🚀 from Brazil.
 
@@ -32,4 +32,4 @@
 [linkedin]: https://www.linkedin.com/in/william-keller-desenvolvedor-full-stack-csharp-aspnetcore-xamarin-imasterscertifiedprofessional/
 [medium]: https://medium.com/@william-keller/
 
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
+<img src="https://raw.githubusercontent.com/william-keller/william-keller/main/wave_bottom.jpg"/>
