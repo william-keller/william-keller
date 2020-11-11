@@ -1,7 +1,12 @@
 ## Hi, I'm William Keller, husband and Developer 🚀 from Brazil.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=william-keller&show_icons=true&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=william-keller&layout=compact)
+<a href="https://github.com/william-keller" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=william-keller&show_icons=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/william-keller" style="float: right;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-keller&layout=compact" />
+</a>
 
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
