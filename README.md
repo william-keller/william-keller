@@ -14,6 +14,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/william-keller)  <img src="https://img.shields.io/github/followers/william-keller?label=Follow" style=" float:left, margin-right:10px" />
 
+<a href="https://github.com/william-keller">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-keller&layout=compact" />
+</a>
+
 ### You can find in me in the web 🌍
 [<img align="left" alt="william-keller" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="william-keller | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
