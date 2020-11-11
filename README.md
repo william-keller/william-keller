@@ -1,5 +1,13 @@
 ## Hi, I'm William Keller, husband and Developer 🚀 from Brazil.
 
+<a href="https://github.com/william-keller" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=william-keller&show_icons=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/william-keller" style="float: right;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-keller&layout=compact" />
+</a>
+
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -21,12 +29,3 @@
 [website]: https://william-keller.github.io/
 [linkedin]: https://www.linkedin.com/in/william-keller-desenvolvedor-full-stack-csharp-aspnetcore-xamarin-imasterscertifiedprofessional/
 [medium]: https://medium.com/@william-keller/
-
-
-<a href="https://github.com/william-keller" style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=william-keller&show_icons=true&hide_border=true" />
-</a>
-
-<a href="https://github.com/william-keller" style="float: right;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-keller&layout=compact" />
-</a>
