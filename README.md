@@ -2,11 +2,11 @@
 
 ## Hi, I'm William Keller, husband and Developer 🚀 from Brazil.
 
-<a href="https://github.com/william-keller" style="display: inline-block;">
+<a href="https://github.com/william-keller" style="display: inline-block;" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=william-keller&show_icons=true&hide_border=true" />
 </a>
 
-<a href="https://github.com/william-keller" style="float: right;">
+<a href="https://github.com/william-keller" style="float: right;" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-keller&layout=compact" />
 </a>
 
@@ -24,9 +24,9 @@
 ![Profile views](https://gpvc.arturio.dev/william-keller)  <img src="https://img.shields.io/github/followers/william-keller?label=Follow" style=" float:left, margin-right:10px" />
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="william-keller" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="william-keller | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="william-keller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="william-keller" width="22px"  target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="william-keller | Medium" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="william-keller | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://william-keller.github.io/
 [linkedin]: https://www.linkedin.com/in/william-keller-desenvolvedor-full-stack-csharp-aspnetcore-xamarin-imasterscertifiedprofessional/
