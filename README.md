@@ -30,6 +30,6 @@
 
 [website]: https://william-keller.github.io/
 [linkedin]: https://www.linkedin.com/in/william-keller-desenvolvedor-full-stack-csharp-aspnetcore-xamarin-imasterscertifiedprofessional/
-[medium]: https://medium.com/@william-keller/
+[medium]: https://medium.com/@kellerwilliam/
 
 <img src="https://raw.githubusercontent.com/william-keller/william-keller/main/wave_bottom.jpg"/>
