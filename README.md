@@ -1,6 +1,8 @@
 ## Hi, I'm William Keller, husband and Developer 🚀 from Brazil.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=william-keller&show_icons=true&hide_border=true)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=william-keller&layout=compact)
+
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -13,10 +15,6 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ![Profile views](https://gpvc.arturio.dev/william-keller)  <img src="https://img.shields.io/github/followers/william-keller?label=Follow" style=" float:left, margin-right:10px" />
-
-<a href="https://github.com/william-keller">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-keller&layout=compact" />
-</a>
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="william-keller" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
