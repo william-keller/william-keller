@@ -16,11 +16,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/william-keller)  <img src="https://img.shields.io/github/followers/william-keller?label=Follow" style=" float:left, margin-right:10px" />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AbraaoHonorio/count.svg" />
-</p>
-
 ### You can find in me in the web 🌍
 [<img align="left" alt="william-keller" width="22px"  target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="william-keller | Medium" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -29,5 +24,10 @@
 [website]: https://github.com/william-keller/
 [linkedin]: https://www.linkedin.com/in/william-keller-desenvolvedor-full-stack-csharp-aspnetcore-xamarin-imasterscertifiedprofessional/
 [medium]: https://medium.com/@kellerwilliam/
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AbraaoHonorio/count.svg" />
+</p>
 
 <img src="https://raw.githubusercontent.com/william-keller/william-keller/main/wave_bottom.jpg"/>
