@@ -27,7 +27,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AbraaoHonorio/count.svg" />
+  <img src="https://profile-counter.glitch.me/william-keller/count.svg" />
 </p>
 
 <img src="https://raw.githubusercontent.com/william-keller/william-keller/main/wave_bottom.jpg"/>
