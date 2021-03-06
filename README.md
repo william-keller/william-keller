@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/william-keller/william-keller/main/wave_top.jpg"/>
-
 ## Hi, I'm William Keller, husband and Developer 🚀 from Brazil.
 
 <a href="https://github.com/william-keller" style="display: inline-block;" target="_blank">
@@ -29,5 +27,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/william-keller/count.svg" />
 </p>
-
-<img src="https://raw.githubusercontent.com/william-keller/william-keller/main/wave_bottom.jpg"/>
