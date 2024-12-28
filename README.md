@@ -1,4 +1,4 @@
-## Hi, I'm William Keller, husband and Developer 🚀 from Brazil.
+## Hi, I'm William Keller, husband, father and developer 🚀 from Brazil.
 
 <a href="https://github.com/william-keller" style="display: inline-block;" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=william-keller&show_icons=true&hide_border=true" />
